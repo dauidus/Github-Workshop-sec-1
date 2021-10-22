@@ -1,7 +1,6 @@
 // nothing to see here
 //  main.cpp
 //  project9
-// kekw
 //  Created b on 12/15/20.
 //
 
