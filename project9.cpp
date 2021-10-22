@@ -1,8 +1,8 @@
-//
+// nothing to see here
 //  main.cpp
 //  project9
-//
-//  Created by Shawn Anthony on 12/15/20.
+// kekw
+//  Created b on 12/15/20.
 //
 
 #include <iostream>
