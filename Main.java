@@ -4,6 +4,8 @@ import java.util.Scanner;
 import java.io.PrintWriter;
 import java.io.PrintStream;
 
+//jhfbwihferiofuiijo
+
 public class Main{
   public static void main(String[] args) throws FileNotFoundException {
         try {
@@ -33,6 +35,7 @@ public class Main{
                     System.out.println(data);
 
                 }
+	//kenz was hereeeeeeee
 
             myReader.close();
 
@@ -43,6 +46,7 @@ public class Main{
                 System.out.println(data);
             }
 
+//My favorite color is black
 
     } catch (FileNotFoundException e) {
             System.out.println("An error occurred...");
