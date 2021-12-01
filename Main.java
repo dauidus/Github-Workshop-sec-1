@@ -35,6 +35,7 @@ public class Main{
                     System.out.println(data);
 
                 }
+	//kenz was here
 
             myReader.close();
 
@@ -45,6 +46,7 @@ public class Main{
                 System.out.println(data);
             }
 
+//My favorite color is black
 
     } catch (FileNotFoundException e) {
             System.out.println("An error occurred...");
