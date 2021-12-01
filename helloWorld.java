@@ -6,7 +6,9 @@ public class helloWorld {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		System.out.println("What is your name? ");
-		String name = in.nextLine();
+		String name = "......My name is pranik.......";
+		System.out.println(name);
+		//String name = in.nextLine();
 		System.out.println("Hello " + name);
 		
 		//Wasssup
